@@ -26,12 +26,6 @@
                         "id": "3"
                     },
                     {
-                        "name": "Blog",
-                        "slug": "/blog",
-                        "id": "4"
-                    },
-
-                    {
                         "name": "Contact",
                         "slug": "/contact",
                         "id": "6"
@@ -88,11 +82,6 @@
                         "name": "Reviews",
                         "slug": "/reviews",
                         "id": "3"
-                    },
-                    {
-                        "name": "Blog",
-                        "slug": "/blog",
-                        "id": "4"
                     },
 
                     {

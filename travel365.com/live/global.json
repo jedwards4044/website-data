@@ -1,5 +1,5 @@
 {
-"modules": [
+    "modules": [
         {
             "componentType": "navigation",
             "attributes": {
@@ -24,11 +24,6 @@
                         "name": "Reviews",
                         "slug": "/reviews",
                         "id": "3"
-                    },
-                    {
-                        "name": "Blog",
-                        "slug": "/blog",
-                        "id": "4"
                     },
                     {
                         "name": "Module Descriptions",
@@ -93,11 +88,6 @@
                         "name": "Reviews",
                         "slug": "/reviews",
                         "id": "3"
-                    },
-                    {
-                        "name": "Blog",
-                        "slug": "/blog",
-                        "id": "4"
                     },
                     {
                         "name": "Module Descriptions",
