@@ -2,6 +2,12 @@
     "name": "Kitchen",
     "slug": "kitchen",
     "id": "3",
+    "seo": {
+        "title": "Kitchen",
+        "favicon": "/jremodeling-fav.png",
+        "description": "Kitchen remodeling services",
+        "ogImage": "/living-1.jpg"
+    },
 
     "modules": [
         {
