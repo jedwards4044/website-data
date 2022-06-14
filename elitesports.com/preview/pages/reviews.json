@@ -2,6 +2,12 @@
     "name": "Reviews",
     "slug": "reviews",
     "id": "3",
+    "seo": {
+        "title": "Reviews",
+        "favicon": "/sports-fav.png",
+        "description": "Reviews of our programs",
+        "ogImage": "/soccer-2.jpg"
+    },
 
     "modules": [
         {

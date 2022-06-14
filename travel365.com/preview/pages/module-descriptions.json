@@ -2,6 +2,12 @@
     "name": "Module Descriptions",
     "slug": "module-descriptions",
     "id": "6",
+    "seo": {
+        "title": "Module Descriptions",
+        "favicon": "/company-fav.png",
+        "description": "For site testing",
+        "ogImage": "/juan-test-004.jpg"
+    },
 
     "modules": [
         {

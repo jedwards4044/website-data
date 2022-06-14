@@ -21,6 +21,11 @@
             "id": "3"
         },
         {
+            "name": "Bathroom",
+            "slug": "bathroom",
+            "id": "5"
+        },
+        {
             "name": "Contact",
             "slug": "contact",
             "id": "4"

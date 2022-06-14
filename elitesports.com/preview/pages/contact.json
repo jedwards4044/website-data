@@ -2,6 +2,12 @@
     "name": "Contact",
     "slug": "contact",
     "id": "4",
+    "seo": {
+        "title": "Contact",
+        "favicon": "/sports-fav.png",
+        "description": "Contact us now",
+        "ogImage": "/soccer-2.jpg"
+    },
 
     "modules": [
         {

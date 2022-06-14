@@ -2,6 +2,12 @@
     "name": "Home",
     "slug": "home",
     "id": "0",
+    "seo": {
+        "title": "Travel 365",
+        "favicon": "/company-fav.png",
+        "description": "Home page for our travel site",
+        "ogImage": "/juan-test-004.jpg"
+    },
 
     "modules": [
         {

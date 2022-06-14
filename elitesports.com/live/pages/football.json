@@ -2,6 +2,12 @@
     "name": "football",
     "slug": "football",
     "id": "2",
+    "seo": {
+        "title": "Football",
+        "favicon": "/sports-fav.png",
+        "description": "Football leagues",
+        "ogImage": "/soccer-2.jpg"
+    },
 
     "modules": [
         {

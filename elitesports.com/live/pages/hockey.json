@@ -2,6 +2,12 @@
     "name": "Hockey",
     "slug": "hockey",
     "id": "2",
+    "seo": {
+        "title": "Hockey",
+        "favicon": "/sports-fav.png",
+        "description": "Ice hockey leagues",
+        "ogImage": "/soccer-2.jpg"
+    },
 
     "modules": [
         {
