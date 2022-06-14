@@ -23,12 +23,12 @@
         {
             "name": "Bathroom",
             "slug": "bathroom",
-            "id": "5"
+            "id": "4"
         },
         {
             "name": "Contact",
             "slug": "contact",
-            "id": "4"
+            "id": "5"
         }
     ],
     "home": "0"
