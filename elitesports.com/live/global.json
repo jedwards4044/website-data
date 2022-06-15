@@ -1,4 +1,7 @@
 {
+    "seo": {
+        "favicon": "/sports-fav.png"
+    },
     "modules": [
         {
             "componentType": "navigation",

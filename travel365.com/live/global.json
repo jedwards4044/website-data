@@ -1,4 +1,7 @@
 {
+    "seo": {
+        "favicon": "/company-fav.png"
+    },
     "modules": [
         {
             "componentType": "navigation",

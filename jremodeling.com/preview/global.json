@@ -1,4 +1,7 @@
 {
+    "seo": {
+        "favicon": "/jremodeling-fav.png"
+    },
     "modules": [
         {
             "componentType": "navigation",
