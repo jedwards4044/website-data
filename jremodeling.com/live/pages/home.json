@@ -21,6 +21,20 @@
                 "modLayout": "normal"
             }
         },
+        {
+            "componentType": "images",
+            "attributes": {
+                "modLayout": "1-hero",
+                "items": [
+                    {
+                        "imageUrl": "/bathroom-1.jpg",
+                        "altText": "Bathroom",
+                        "linkUrl": "/bathroom",
+                        "headline": "Remodel a bathroom today!"
+                    }
+                ]
+            }
+        },
 
         {
             "componentType": "images",
@@ -46,20 +60,6 @@
                         "altText": "kitchen",
                         "linkText": "Kitchen",
                         "linkUrl": "/kitchen"
-                    }
-                ]
-            }
-        },
-        {
-            "componentType": "images",
-            "attributes": {
-                "modLayout": "1-hero",
-                "items": [
-                    {
-                        "imageUrl": "/bathroom-1.jpg",
-                        "altText": "Bathroom",
-                        "linkUrl": "/bathroom",
-                        "headline": "Remodel a bathroom today!"
                     }
                 ]
             }
