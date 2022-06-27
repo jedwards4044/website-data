@@ -26,7 +26,7 @@
                 "modLayout": "1-hero",
                 "items": [
                     {
-                        "imageUrl": "/hockey-4",
+                        "imageUrl": "/hockey-4.jpg",
                         "altText": "Hockey",
                         "headline": "Reach out to us to learn how to get started"
                     }
@@ -39,7 +39,7 @@
             "attributes": {
                 "headline": "Join right away",
                 "body": "We have leagues of every sport year round with camps and pick up activities that can be joined anytime.  Reach out to our coordination exports to see where to get you or your child started in one of our sports leagues.",
-                "imageUrl": "/football-3",
+                "imageUrl": "/football-3.jpg",
                 "altText": "Football",
                 "border": true,
                 "modLayout": "article",
